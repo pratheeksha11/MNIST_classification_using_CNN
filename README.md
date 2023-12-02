@@ -9,6 +9,7 @@ This project focuses on the classification of handwritten digits using Convoluti
 The project uses two main data files:
 - `train.csv`: This file contains the training data, with each row representing a labeled image of a handwritten digit.
 - `test.csv`: This file consists of test data used to evaluate the performance of the CNN model.
+- [Download dataset from here](https://github.com/pratheeksha11/Machine-Learning-Projects/tree/main/MNIST_classification_using_CNN)
 
 ## Objective
 
